@@ -1,0 +1,12 @@
+[submodule "xyz-base-ui"]
+	path = xyz-base-ui
+	url = https://github.com/xylophonexyz/xyz-base-ui
+[submodule "xyz-base-api"]
+	path = xyz-base-api
+	url = https://github.com/xylophonexyz/xyz-base-api
+[submodule "xyz-custom-domain-helper-service"]
+	path = xyz-custom-domain-helper-service
+	url = https://github.com/xylophonexyz/xyz-custom-domain-helper-service
+[submodule "xyz-url-rewrite-proxy"]
+	path = xyz-url-rewrite-proxy
+	url = https://github.com/xylophonexyz/xyz-url-rewrite-proxy
